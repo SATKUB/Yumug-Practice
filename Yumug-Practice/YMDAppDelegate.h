@@ -2,7 +2,7 @@
 //  YMDAppDelegate.h
 //  Yumug-Practice
 //
-//  Created by 立石 彰 on 2013/02/04.
+//  Created by akira-tt on 2013/02/04.
 //  Copyright (c) 2013年 Yu-MUG. All rights reserved.
 //
 
